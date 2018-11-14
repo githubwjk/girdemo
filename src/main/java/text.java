@@ -4,7 +4,7 @@ public class text {
      * */
     public static void main(String[] args) {
         System.out.println("我是你爸爸");
-        System.out.println("sssssssss");
+        System.out.println("ssssssssss");
 
     }
 }
